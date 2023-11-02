@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <size
+        android:width="16dp"
+    android:height="16dp" />
+    <solid android:color="#0283F4" /> <!-- Set the desired color (e.g., red) -->
+</shape>
+
+<!--    <?xml version="1.0" encoding="utf-8"?>-->
+<!--<shape xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--android:shape="oval">-->
+<!--<size-->
+<!--    android:width="18dp"-->
+<!--    android:height="18dp"/>-->
+<!--<solid android:color="#0096c7" /> &lt;!&ndash; Set the desired color (e.g., red) &ndash;&gt;-->
+<!--</shape>-->
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android">-->
+    <!--    <item android:width="16dp" android:height="16dp">-->
+    <!--        <shape android:shape="oval">-->
+    <!--            <solid android:color="#0096c7" />-->
+    <!--        </shape>-->
+    <!--    </item>-->
+    <!--</layer-list>-->
+
+
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<shape xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--    android:shape="oval">-->
+    <!--    <size-->
+    <!--        android:width="8dp"-->
+    <!--    android:height="8dp" />-->
+    <!--    <solid android:color="#0096c7" /> &lt;!&ndash; Set the desired color (e.g., red) &ndash;&gt;-->
+    <!--</shape>-->

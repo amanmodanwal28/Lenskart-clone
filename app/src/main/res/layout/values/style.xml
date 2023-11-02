@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/styles.xml -->
+<resources>
+    <style name="BoldItalicText">
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+</resources>
