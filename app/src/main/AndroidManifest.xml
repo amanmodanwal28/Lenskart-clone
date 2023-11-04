@@ -12,6 +12,8 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+
 
     <application
         android:allowBackup="true"
@@ -28,9 +30,10 @@
             android:name=".VideoPlaybackActivity"
             android:label="Video Playback"
             android:hardwareAccelerated="true"
-            android:configChanges="orientation|screenSize"
-            android:launchMode="singleTop"
+            android:configChanges="uiMode|orientation|screenSize|screenLayout|smallestScreenSize|keyboardHidden"
+            android:launchMode="singleTask"
             android:screenOrientation="sensor"
+            android:resizeableActivity="true"
             android:supportsPictureInPicture="true"
             android:exported="true">
             <intent-filter>

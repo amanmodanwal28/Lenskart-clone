@@ -138,15 +138,15 @@
             android:layout_marginEnd="0dp"
             android:layout_toStartOf="@+id/playPauseButton"
             android:src="@drawable/previous_button" />
-<!--        <Button-->
-<!--            android:id="@+id/closePiPButton"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:text="Close PiP"-->
-<!--            android:layout_alignParentTop="true"-->
-<!--            android:layout_alignParentEnd="true"-->
-<!--            android:layout_marginTop="16dp"-->
-<!--            android:layout_marginEnd="16dp" />-->
+        <ImageView
+            android:id="@+id/PipMode"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:src="@drawable/ic_screen_landscape_24dp"/>
 
 
     </RelativeLayout>
