@@ -36,6 +36,8 @@
             android:resizeableActivity="true"
             android:supportsPictureInPicture="true"
             android:exported="true">
+
+            <supportsPictureInPicture>true</supportsPictureInPicture>
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
