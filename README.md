@@ -54,7 +54,7 @@ Ensure the following are installed on your machine:
 5. **Clone the repository**:
    Access the app: Open your browser and navigate to:
    ```bash
-   [git clone https://github.com/amanmodanwal28/Lenskart-clone.git](http://localhost:3000)
+  http://localhost:3000
    ```         
    
    
