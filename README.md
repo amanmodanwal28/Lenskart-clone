@@ -54,7 +54,7 @@ Ensure the following are installed on your machine:
 5. **Clone the repository**:
    Access the app: Open your browser and navigate to:
    ```bash
-  http://localhost:3000
+   http://localhost:3000
    ```         
    
    
