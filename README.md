@@ -16,7 +16,6 @@ This project is a replica of the Lenskart website, designed as a web application
 
 ## Technologies Used:
 - **React.js** - Frontend library for building the user interface.
-- **Vite** - A fast build tool and development environment for modern web projects.
 - **CSS** - Used for styling the components and layouts.
 - **Vercel** - For deploying and hosting the application.
 
@@ -34,3 +33,28 @@ Ensure the following are installed on your machine:
    ```bash
    git clone https://github.com/amanmodanwal28/Lenskart-clone.git
    ```
+2. **Clone the repository**:
+   Navigate into the project directory: Go to the cloned folder:
+   ```bash
+   cd Lenskart-clone
+   ```
+
+3. **Clone the repository**:
+  Install dependencies: Install all required dependencies:
+   ```bash
+   npm install
+   ```
+
+4. **Clone the repository**:
+  Run the development server: Start the local development server:
+   ```bash
+   npm run dev
+   ```
+
+5. **Clone the repository**:
+   Access the app: Open your browser and navigate to:
+   ```bash
+   [git clone https://github.com/amanmodanwal28/Lenskart-clone.git](http://localhost:3000)
+   ```         
+   
+   
